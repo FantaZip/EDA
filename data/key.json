@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-fantazip",
+  "private_key_id": "22dae4004105adea3fcbac4b55f498d45b4b7490",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDpbfF3XIhW8yVl\nWoyf24fxxsHl2l9Urtf6sfwx0OnbQOh4qTfVwFygwzjARMUpQnF89O15PjERMWnD\neiy+yP62JaZAQeJD8S/f3i8e9SUfcmJE75UdublZdEfAJ/D8M00sZqQuR+7EjI++\nbEavO1m0BGhuy5KL4REKptxRiFYkY9HyIuIqKnxkQeV3zvM66uTuP0YDxMOjIMlP\nBipcAHWQYqfSwoiDMELRuLlbeSEn3nUR6zGKSJVg7ujUWjo51N/fHKyTpoXPEbwD\nN5LggwNGGU4gO5neV22U4ud36cL/t6YhnwOn7RaZZFXeKzmV9YweP+LgUxsPp+WH\n7MBxJkkxAgMBAAECggEABMAQWOMmLHbNkllxtn3A2iJhpxbMN9dIXTlVWNeChXa1\nrww/2aFiK9dX2/nKSq5SdujZEvg5XBCLBsesChnhrRKTu90GCLyWF9KCrPjveiCu\nxUOxiiWnEvNIfoLm5uBNuBNCpg/Krm9EgZXcfmERJeutCwwo0vXlOI1FZddbbBQd\n/sQc4cGVoA1Uo2CienQFsggKft/ZJdOta1WDKPSFBiRCG0i9mxMhAbXbHSrvLqwU\nHSkBl0JxOVQGj7I7FskduCyH7W22pPEfhOthge0UdFa84nUGZju/x2Cf0D7jEyg9\n4kEyrBcal6MgY/aaeDS3m5sRcrA4crGie1vuAY+x/QKBgQD6vj/v8gMiuSdaH+wh\nr6fe018RRCkJK7YN/TTIj4DAmEBaspWGsDbwtF8GvvtuXHY4xHyDpakQb4FdUOYQ\nrctKNAvdQEbFEmXVuSX2UHMSasKyNQHlcB2TDwIpbpwdWwQettIqCDi3Q3nUDCTF\nfBSl5/neRmtfzHbTJN9M6aZp+wKBgQDuUsUiGsJwMk90XXbXWYOegSw+8CuPZ1OW\nFCaDjn7xb2j0uUE/SMFiE9fYCZMQ3NMhQWFauhFBCT78XuUSQPHgqnEWGYmVnSwI\n9eKQuxMhiEALNq4OJokQPsc9dBYMIyMLk6uXqj2t1GcDwTLW3XEXSiu10dOtpnqe\npBv4M6x9wwKBgQCLRfVZn8FiHhnfk2+jXmAOArYBbyyj7WWX65bP9/V6BJdqSVuI\njoRVuro1kwsxR6Za7biDnxaDDIx8epzvkrkiJDqa0EL+37M0vTx6zkC8cBRoy8yb\n1mR29JUs0kVggNeO/9lIg3yNPquCvqQGFV+ar3k4n0Cw22785LQrknRe1QKBgQDW\nE0l64hioWbjfaRlYRdMh7RxGiMxIK2N82yrhX32N+CqKMWJ3qy3yoKpxJ+CP9Bw+\nshD2Q08+YUTPw5n29JmQ2ulsFZJt71nfzqcupKyBoXcN25crpNfX3NxxyjYHvwQ6\n4PHw8X4oCDRkvgWh1hZA+mIbF5kSUgmxOO7a2+fkqwKBgD12M+kQJwZgIQkAhapK\n/qqIpHnZrlJ10ca1utsalbhfPpo+RAIIyRx5S+PfwxNKjQi7Yf0wtYXt+z7lCdUs\nqPNwLPlqP+k8fCIvTOxb7uI0ONbSY/AZMjxPqlPYMW8KK+ujoNhdxLjI+DI+QCl3\nxyQrYWrWrNCvwEnLotvHEAUr\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-fantazip@my-fantazip.iam.gserviceaccount.com",
+  "client_id": "113215574367304387034",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-fantazip%40my-fantazip.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
